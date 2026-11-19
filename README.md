@@ -1,2 +1,5 @@
-# ices-advice-data-officer-demo-
-Portfolio project for the ICES Advice &amp; Data Officer application. Analysis of fish egg and larval survey data using R, Quarto, and reproducible workflows.
+# ICES Advice & Data Officer - Portfolio Project
+
+This repository demonstrates data processing, integration, visualisation and reporting skills using R and Quarto.
+Data source: ICES Eggs and Larvae dataset [2026]. ICES, Copenhagen.
+The analysis links haul metadata and biological observations, calculates biodiversity metrics, and produces a reproducible report.
